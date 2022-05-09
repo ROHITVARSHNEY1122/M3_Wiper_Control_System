@@ -24,6 +24,8 @@ This application is researched from various sources (like you tube , google and 
 -   This can be  used by the user in day to day life where they can track their safety and  generate better results in life during travelling via motor vehicles  .
 ### How
 -   LED shows the position of wiper and it will return to the original position after cleaning windsheet of motor vehicles  .
+## SWOT ANALYSIS
+![SWOT](https://user-images.githubusercontent.com/101577287/167350083-a490665c-2697-474b-aea1-3fe3871a6fb4.png)
 ## Detail requirements
 ## High Level Requirements
 | ID | Description | Requirement | Status | 
