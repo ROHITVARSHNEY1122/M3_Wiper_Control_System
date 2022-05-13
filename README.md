@@ -9,4 +9,5 @@
 
 [![cppcheck-action](https://github.com/ROHITVARSHNEY1122/M3_Wiper_Control_System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/ROHITVARSHNEY1122/M3_Wiper_Control_System/actions/workflows/cppcheck.yml)
 
+![CODIGA](https://api.codiga.io/project/33357/score/svg)
 
